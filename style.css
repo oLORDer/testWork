@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+<<<<<<< HEAD
 h3  {
     color:aqua;
 }
@@ -21,4 +22,21 @@ h3  {
     height: 400px;
     background-color: #fff;
     margin: 0 auto;
+=======
+.gz {
+    width: 200px;
+    height: 700px;
+    background-color: #fff;
+    margin: 70px auto;
+    position: relative;
+}
+
+.wt {
+    width: 700px;
+    height: 200px;
+    background-color: #fff;
+    position: absolute;
+    right: -250px;
+    top: 100px;
+>>>>>>> v2.0
 }
