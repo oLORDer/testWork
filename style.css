@@ -23,6 +23,20 @@ h3  {
     margin: 0 auto;
 }
 
+.eyes {
+    display: inline-flex;
+    justify-content: space-around;
+    margin: 30px auto;
+    width: 200px;
+    background-color: white;
+}
+
+.eyes div {
+    display: inline-block;
+    width: 30px;
+    height: 20px;
+}
+
 .gz {
     width: 200px;
     height: 700px;
