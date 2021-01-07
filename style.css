@@ -1,4 +1,22 @@
 * {
     background-color: black;
     color: white;
+    box-sizing: border-box;
+}
+
+.gz {
+    width: 200px;
+    height: 700px;
+    background-color: #fff;
+    margin: 70px auto;
+    position: relative;
+}
+
+.wt {
+    width: 700px;
+    height: 200px;
+    background-color: #fff;
+    position: absolute;
+    right: -250px;
+    top: 100px;
 }
