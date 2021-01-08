@@ -34,7 +34,22 @@ h3  {
 .eyes div {
     display: inline-block;
     width: 30px;
-    height: 20px;
+    height: 30px;
+    border: white 1px solid;
+    border-radius: 100%;
+}
+
+.mouth {
+    width: 100px;
+    height: 30px;
+    background-color: aqua;
+    margin: 50px auto 0 auto;
+    border: white 1px solid;
+    border-radius: 50%;
+}
+
+.mouth:hover {
+    box-shadow: 0 0 30px red;
 }
 
 .gz {
